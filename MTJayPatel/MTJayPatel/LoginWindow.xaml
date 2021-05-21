@@ -1,0 +1,21 @@
+﻿<Window x:Class="MTJayPatel.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MTJayPatel"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800" Background="White">
+    <Canvas>
+        <Canvas.Background>
+            <ImageBrush ImageSource="/login.jpg"/>
+        </Canvas.Background>
+        <Label Content="Username:" Margin="135,75,0,0" Canvas.Left="150" Canvas.Top="20" FontWeight="Bold" Foreground="White" Background="#FF644F4F"/>
+        <Label Content="Password:" Canvas.Left="285" Canvas.Top="142" FontWeight="Bold" Foreground="White" Background="#FF644F4F"/>
+        <TextBox x:Name="txtUsername" Canvas.Left="367" Canvas.Top="98" TextWrapping="Wrap" Width="120" RenderTransformOrigin="-0.058,-0.031" FontWeight="Bold"/>
+        <PasswordBox x:Name="txtPassword" Canvas.Left="367" Canvas.Top="146" Width="120" FontWeight="Bold"/>
+        <Button x:Name="btnLogin" Content="Login" Canvas.Left="367" Canvas.Top="194" Width="60" Height="26" Click="btnLogin_Click"   FontStyle="Italic" FontWeight="Bold" Background="White"/>
+        <Button x:Name="btnCancel" Content="Cancel" Canvas.Left="487" Canvas.Top="194" Width="60" Height="26" Click="btnCancel_Click" FontWeight="Bold" Background="White"/>
+
+    </Canvas>
+</Window>
