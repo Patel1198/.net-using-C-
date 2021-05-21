@@ -1,0 +1,13 @@
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\obj\Debug\netcoreapp3.1\A1JayPatel.csprojAssemblyReference.cache
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\obj\Debug\netcoreapp3.1\A1JayPatel.AssemblyInfoInputs.cache
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\obj\Debug\netcoreapp3.1\A1JayPatel.AssemblyInfo.cs
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\obj\Debug\netcoreapp3.1\A1JayPatel.csproj.CoreCompileInputs.cache
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\bin\Debug\netcoreapp3.1\A1JayPatel.exe
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\bin\Debug\netcoreapp3.1\A1JayPatel.deps.json
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\bin\Debug\netcoreapp3.1\A1JayPatel.runtimeconfig.json
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\bin\Debug\netcoreapp3.1\A1JayPatel.runtimeconfig.dev.json
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\bin\Debug\netcoreapp3.1\A1JayPatel.dll
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\bin\Debug\netcoreapp3.1\A1JayPatel.pdb
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\obj\Debug\netcoreapp3.1\A1JayPatel.dll
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\obj\Debug\netcoreapp3.1\A1JayPatel.pdb
+C:\Users\jayko\source\repos\A1JayPatel\A1JayPatel\obj\Debug\netcoreapp3.1\A1JayPatel.genruntimeconfig.cache
